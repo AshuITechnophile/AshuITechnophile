@@ -53,7 +53,7 @@ I am a **3rd Year Computer Science Student** (5th Semester) building production-
 ---
 
 ### 📊 GitHub Analytics
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AshuITechnophile&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AshuITechnophile&theme=radical&cache=1)](https://git.io/streak-stats)
 
 ---
 
