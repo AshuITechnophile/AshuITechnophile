@@ -1,7 +1,5 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ashutosh%20Mishra&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20UI%2FUX%20Lead%20%7C%20AI%20Systems%20Builder&descAlignY=58&descColor=a78bfa&animation=fadeIn" width="100%"/>
-
 </div>
 
 <br/>
@@ -37,7 +35,7 @@ status      : Actively targeting top-tier SWE & Product roles
 ## 🛠️ Tech Stack
 
 ### Languages
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -52,13 +50,15 @@ status      : Actively targeting top-tier SWE & Product roles
 ### Databases & Cloud
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ### Design & AI Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ### Dev Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -67,28 +67,30 @@ status      : Actively targeting top-tier SWE & Product roles
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Flagship Projects
+
+> The projects that define my engineering identity — combining AI, real-world utility, and design.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🤖 Legal Rai
-**AI-Powered Legal Guidance Platform**
+**AI-Powered Legal Assistant Platform** · `Active Development`
 
-An intelligent chatbot providing structured legal guidance, document summarization, and localized Indian legal context — built with Python, MongoDB, and Vertex AI.
+Flagship AI product — an intelligent chatbot offering structured legal guidance, smart document summarization, lawyer escalation, case law lookup, and localized Indian legal context. Combines NLP, full-stack development, and real-world legal problem solving.
 
-`Python` `MongoDB` `Vertex AI` `NLP`
+`Python` `MongoDB` `Vertex AI` `NLP` `HTML/CSS/JS`
 
 </td>
 <td width="50%" valign="top">
 
-### ⚡ Chetak Connect
-**IoT Dashboard for EV Ecosystem**
+### ⚡ Bifrost
+**Smart EV Charging & Energy Management Platform** · `Architecture Phase`
 
-Real-time battery management, data visualization, and charging optimization dashboard for electric vehicles.
+Most ambitious system design project — a P2P smart charging network with AI-based energy optimization, real-time charger monitoring, slot reservation, predictive maintenance, and smart grid integration.
 
-`IoT` `JavaScript` `Data Viz` `REST API`
+`React` `Node.js` `Python` `TensorFlow` `Firebase` `MongoDB`
 
 </td>
 </tr>
@@ -96,47 +98,126 @@ Real-time battery management, data visualization, and charging optimization dash
 <td width="50%" valign="top">
 
 ### 🌐 GDG SUI Official Platform
-**Community Hub — Live in Production**
+**Community Hub — Live in Production** · `Deployed`
 
-High-performance community platform for student onboarding, events, and resources. Co-developed and deployed for GDG on Campus, SAGE University Indore.
+Production-grade community platform for GDG on Campus, SAGE University Indore — handling student onboarding, events, and resource sharing. Real organization contribution, co-developed and shipped.
 
 `React` `Node.js` `UI/UX` `Figma`
 
 </td>
 <td width="50%" valign="top">
 
-### ♻️ Smart Waste Sorter
-**AI-Driven Waste Management Web App**
+### 🧠 Prompt Master
+**AI Prompt Engineering Assistant** · `In Progress`
 
-AI-implemented web application for automated waste classification and management — focused on environmental sustainability.
+Productivity tool that converts real-world situations into optimized, context-aware AI prompts. Demonstrates deep understanding of AI workflows, generative AI product thinking, and prompt engineering systems.
 
-`Python` `AI/ML` `Web App` `Computer Vision`
+`AI APIs` `NLP` `Prompt Systems` `JavaScript`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🏋️ Fitness Ranking System
-**Goal-Based Progress Tracker**
+### 🔋 Chetak Connect
+**Personal EV Utility Dashboard** · `Functional`
 
-Dynamic web app for tracking fitness milestones, ranks, and performance metrics with real-time progress monitoring.
+Practical EV management dashboard — time-to-charge calculator, plug-out alarm, target percentage charging helper, and smart time calculations. Strong vanilla JS and utility product design.
 
-`JavaScript` `HTML/CSS` `Data Tracking`
+`Vanilla JS` `HTML` `CSS` `UX Engineering`
 
 </td>
 <td width="50%" valign="top">
 
-### 🆘 Disaster Management UI
-**Emergency Response Interface**
+### ♻️ Smart Waste Sorter
+**AI Sustainability System** · `Prototype`
 
-Strategic interface design for emergency resource allocation, response coordination, and situational awareness.
+AI-driven web application for automated waste classification using computer vision — focused on sustainable automation and environmental impact engineering.
 
-`UI/UX` `Figma` `React` `Design Systems`
+`Python` `AI/ML` `Computer Vision` `Web App`
 
 </td>
 </tr>
 </table>
+
+---
+
+## 📂 All Projects by Domain
+
+<details>
+<summary>👆 <b>🤖 AI, Automation & Intelligent Systems — Click to Expand</b></summary>
+
+<br/>
+
+| Project | Description | Stack | Status |
+|---------|-------------|-------|--------|
+| **Legal Rai** | AI legal chatbot with document summarization, case law lookup, lawyer escalation & smart document generation | Python · MongoDB · Vertex AI · NLP | 🟢 Active |
+| **Prompt Master** | Situation-to-prompt conversion tool with context-aware AI instruction engineering | AI APIs · NLP · Prompt Systems | 🔵 In Progress |
+| **AI-Augmented StackAegis** | AI-assisted development ecosystem with smart workflow automation and productivity engineering | AI · Automation · System Design | 🟡 Concept |
+| **Smart Waste Sorter** | Automated waste classification with computer vision for sustainability | Python · AI/ML · CV | 🟡 Prototype |
+
+</details>
+
+<details>
+<summary>👆 <b>⚡ EV & Smart Mobility — Click to Expand</b></summary>
+
+<br/>
+
+| Project | Description | Stack | Status |
+|---------|-------------|-------|--------|
+| **Bifrost** | P2P smart EV charging network with AI energy optimization, real-time monitoring & smart grid integration | React · Node.js · Python · TensorFlow · Firebase | 🟡 Architecture |
+| **Chetak Connect** | Personal EV dashboard — TTC calculator, plug-out alarm, target % charging helper | Vanilla JS · HTML · CSS | 🟢 Functional |
+
+</details>
+
+<details>
+<summary>👆 <b>💪 Health & Fitness Tech — Click to Expand</b></summary>
+
+<br/>
+
+| Project | Description | Stack | Status |
+|---------|-------------|-------|--------|
+| **Fitness & Fat Loss Tracker** | Gamified health tracking with weight/calorie monitoring, rank system, rewards & progress visualization | HTML · CSS · JS · Python | 🔵 Planning |
+
+</details>
+
+<details>
+<summary>👆 <b>🌐 Frontend, UI/UX & Community — Click to Expand</b></summary>
+
+<br/>
+
+| Project | Description | Stack | Status |
+|---------|-------------|-------|--------|
+| **GDG SUI Official Platform** | Production community hub for student onboarding, events & resources | React · Node.js · Figma | 🟢 Live |
+| **Disaster Management UI** | Emergency coordination interface with resource visualization & situational awareness dashboards | React · Figma · Design Systems | 🟢 Complete |
+| **Portfolio Website** | Personal brand & project showcase with responsive UI | HTML · CSS · JS | 🟢 Live |
+| **Amazon Clone** | Full e-commerce frontend UI with responsive layouts & navigation | HTML · CSS · JS | 🟢 Complete |
+
+</details>
+
+<details>
+<summary>👆 <b>🎓 Academic & Management Systems — Click to Expand</b></summary>
+
+<br/>
+
+| Project | Description | Stack | Status |
+|---------|-------------|-------|--------|
+| **Student Grade Management System** | Academic record tracking with analytics dashboard & performance visualization | Python · Frontend UI | 🟡 UI Phase |
+| **Hospital Management System** | Patient records, data handling & healthcare data organization | Python | 🟢 Complete |
+
+</details>
+
+<details>
+<summary>👆 <b>🛠️ Utility & Calculator Tools — Click to Expand</b></summary>
+
+<br/>
+
+| Project | Description | Stack | Status |
+|---------|-------------|-------|--------|
+| **Petrol Expense Calculator** | Fuel cost estimation, mileage tracking & ride fare comparison for travel planning | HTML · CSS · JS | 🟢 Complete |
+| **Recipe Recommendation App** | Ingredient-based recipe suggestions with local food awareness & smart filtering | JS · Team Project | 🟢 Complete |
+
+</details>
 
 ---
 
@@ -176,7 +257,7 @@ Strategic interface design for emergency resource allocation, response coordinat
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashutoshmishra25/)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ashu-dev-stack.github.io/Porfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ashu-dev-stack.github.io/Porfolio/)
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-Mail_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashutosh.mishra.royal.max@gmail.com)
 
@@ -186,7 +267,7 @@ Strategic interface design for emergency resource allocation, response coordinat
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
 *Open to full-time SWE roles, internships, and collaborative projects.*
 
