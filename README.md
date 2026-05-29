@@ -1,66 +1,193 @@
-# Hi there, I'm Ashutosh Mishra! 👋
-### UI/UX Lead | Software Engineer | AI & IoT Systems Builder
+<div align="center">
 
-I am a **3rd Year Computer Science Student** (5th Semester) building production-oriented systems with a strong foundation in Data Structures & Algorithms. I bridge the gap between **aesthetic design** and **functional backend logic**, focusing on scalable, user-centric web architectures and AI-driven applications.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ashutosh%20Mishra&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20UI%2FUX%20Lead%20%7C%20AI%20Systems%20Builder&descAlignY=58&descColor=a78bfa&animation=fadeIn" width="100%"/>
 
----
+</div>
 
-### 📖 About Me
-- 🔭 **Current Focus:** Advanced React patterns, Disaster Management architecture, and AI-powered legal tech.
-- ⚡ **Recent Milestone:** Successfully co-developed and launched the **Official GDG SUI Website**.
-- 🎓 **Education:** Pursuing B.Tech in Computer Science; specializing in modern web stacks and algorithmic problem solving.
-- 💡 **Philosophy:** Building logic-driven solutions rather than template-based projects.
+<br/>
 
----
+<div align="center">
 
-### 🛠️ Technical Stack
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+logic-driven+systems+%F0%9F%A7%A0;Bridging+Design+%2B+Backend+Engineering+%F0%9F%8C%89;Open+to+SWE+%26+Product+Roles+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
-| **Frameworks** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) |
-| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white) |
-| **Design** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![UI/UX](https://img.shields.io/badge/UI/UX%20Design-FF61F6?style=flat) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) |
-| **Tools/AI** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=flat&logo=openai&logoColor=white) |
+</div>
 
 ---
 
-### 🏆 Experience & Leadership
-* **UI/UX Lead @ GDG on Campus (SAGE University Indore)** | *2025 – 2026*
-    * Leading design direction for campus-wide technical initiatives and frontend architecture.
-* **Green Skills & AI Intern @ Edunet Foundation (AICTE & Shell)** | *Jan 2026*
-    * Developed AI-driven sustainability projects and presented to industry experts.
-* **Tech Team Member @ Google Developer Group (GDG)** | *2025*
-    * Coordinated large-scale events like "Teach the Tech" and E-cell Idea Pitching.
+## 🧑‍💻 About Me
+
+```yaml
+name        : Ashutosh Mishra
+alias       : AshuITechnophile
+role        : UI/UX Lead @ GDG SUI | Software Engineer
+education   : B.Tech Computer Science — 3rd Year, SAGE University Indore
+focus       : React Patterns · AI Systems · Scalable Web Architecture
+philosophy  : "Consistency in logic, excellence in design."
+status      : Actively targeting top-tier SWE & Product roles
+```
+
+- 🔭 Currently building **AI-powered legal tech** and **Disaster Management UIs**
+- ⚡ Co-developed and launched the **Official GDG SUI Website** — live in production
+- 🤖 Completed **AI & Green Skills Internship** @ Edunet Foundation (AICTE × Shell)
+- 🏆 Driving design direction for **campus-wide tech initiatives** as UI/UX Lead
+- 📍 Based in Indore, Madhya Pradesh, India
 
 ---
 
-### 🔭 Featured Projects
+## 🛠️ Tech Stack
 
-#### 🤖 AI & Legal Tech
-* **Legal Rai:** An AI-powered legal chatbot providing structured guidance, document summarization, and localized Indian legal context.
-* **Smart Waste Sorter:** AI-implemented web application focused on automated waste management logic.
+### Languages
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-#### ⚡ EV & IoT Ecosystems
-* **Chetak Connect & TTC Calculator:** IoT dashboard and utility tools for EV battery management, real-time data visualization, and charging optimization.
-* **EV Charging Platform:** Conceptual P2P charging network (Airbnb-style) for electric vehicle points.
+### Frontend & Frameworks
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-#### 🌐 Community & Utility
-* **GDG SUI Official Platform:** High-performance community hub for seamless student onboarding.
-* **Fitness Ranking System:** A goal-based tracking web app with dynamic progress monitoring.
-* **Disaster Management UI:** Strategic interface design for emergency response and resource allocation.
+### Databases & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+### Design & AI Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+### Dev Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-### 📊 GitHub Analytics
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AshuITechnophile&theme=radical&cache=1)](https://git.io/streak-stats)
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Legal Rai
+**AI-Powered Legal Guidance Platform**
+
+An intelligent chatbot providing structured legal guidance, document summarization, and localized Indian legal context — built with Python, MongoDB, and Vertex AI.
+
+`Python` `MongoDB` `Vertex AI` `NLP`
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ Chetak Connect
+**IoT Dashboard for EV Ecosystem**
+
+Real-time battery management, data visualization, and charging optimization dashboard for electric vehicles.
+
+`IoT` `JavaScript` `Data Viz` `REST API`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 GDG SUI Official Platform
+**Community Hub — Live in Production**
+
+High-performance community platform for student onboarding, events, and resources. Co-developed and deployed for GDG on Campus, SAGE University Indore.
+
+`React` `Node.js` `UI/UX` `Figma`
+
+</td>
+<td width="50%" valign="top">
+
+### ♻️ Smart Waste Sorter
+**AI-Driven Waste Management Web App**
+
+AI-implemented web application for automated waste classification and management — focused on environmental sustainability.
+
+`Python` `AI/ML` `Web App` `Computer Vision`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏋️ Fitness Ranking System
+**Goal-Based Progress Tracker**
+
+Dynamic web app for tracking fitness milestones, ranks, and performance metrics with real-time progress monitoring.
+
+`JavaScript` `HTML/CSS` `Data Tracking`
+
+</td>
+<td width="50%" valign="top">
+
+### 🆘 Disaster Management UI
+**Emergency Response Interface**
+
+Strategic interface design for emergency resource allocation, response coordination, and situational awareness.
+
+`UI/UX` `Figma` `React` `Design Systems`
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashutoshmishra25/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashutosh.mishra.royal.max@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ashu-dev-stack.github.io/Porfolio/)
+## 💼 Experience & Leadership
+
+| Role | Organization | Period |
+|------|-------------|--------|
+| 🎨 **UI/UX Lead** | GDG on Campus — SAGE University Indore | 2025 – 2026 |
+| 🌱 **Green Skills & AI Intern** | Edunet Foundation (AICTE × Shell) | Jan 2026 |
+| 🛠️ **Tech Team Member** | Google Developer Group (GDG) | 2025 |
+
+> Led design for campus-wide technical events including **"Teach the Tech"** and **E-cell Idea Pitching**.
 
 ---
-*“Consistency in logic, excellence in design. Focused on building systems that are efficient, scalable, and impact-driven.”*
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AshuITechnophile&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" height="165"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshuITechnophile&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="165"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AshuITechnophile&theme=midnight-purple&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🤝 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashutoshmishra25/)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ashu-dev-stack.github.io/Porfolio/)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-Mail_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashutosh.mishra.royal.max@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+
+*Open to full-time SWE roles, internships, and collaborative projects.*
+
+</div>
